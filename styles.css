@@ -1,0 +1,37 @@
+* {
+    border: red 1px;
+    border-style: dashed;
+}
+
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+
+.Post{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+}
+
+.Head{
+    display: flex;
+    overflow: auto;
+}
+
+.Dots{
+    float: right;
+}
+
+.Avi img{
+    max-height: 60px;
+}
+
+.Dots img{
+    max-height: 30px;
+}
+
+.Image img{
+    max-width: 400px;
+}
