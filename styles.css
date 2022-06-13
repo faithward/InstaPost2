@@ -11,7 +11,7 @@ body {
 
 .Post{
     background-color: white;
-    width: 400px;
+    width: 500px;
     margin: auto;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .Avi img{
-    max-height: 60px;
+    max-height: 50px;
 }
 
 .Dots img{
@@ -33,5 +33,17 @@ body {
 }
 
 .Image img{
-    max-width: 400px;
+    max-width: 500px;
+}
+
+.Bookmark {
+    float: right;
+}
+
+.Icons {
+    display: flex;
+}
+
+.Caption{
+    padding: 5px;
 }
