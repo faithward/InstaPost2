@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-family: 'Roboto', sans-serif;
     margin: auto;
+    padding: 20px;
 }
 
 .Post{
@@ -21,10 +22,18 @@ body {
 
 .Avi img{
     max-height: 50px;
+    margin-top: 10px;
+    
+}
+
+.NameLocation {
+    margin-top: 10px;
+    margin-left: 5px;
 }
 
 .Dots img{
     max-height: 30px;
+    margin-top: 10px;
 }
 
 .Image img{
@@ -33,12 +42,13 @@ body {
 
 .Bookmark{
     float: right;
-    margin-left: 420px;
+    margin-left: 380px;
 }
 
 .Icons {
     display: flex;
-    margin-left: 5px;
+    margin-top: 5px;
+    margin-left: 10px;
 }
 
 .Caption{
