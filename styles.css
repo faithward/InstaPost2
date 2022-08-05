@@ -22,18 +22,18 @@ body {
 
 .Avi img{
     max-height: 50px;
-    margin-top: 10px;
+    margin: 10px;
     
 }
 
 .NameLocation {
-    margin-top: 10px;
-    margin-left: 5px;
+    margin-top: -5px;
 }
 
 .Dots img{
     max-height: 30px;
     margin-top: 10px;
+    margin-left: 330px;
 }
 
 .Image img{
@@ -42,20 +42,20 @@ body {
 
 .Bookmark{
     float: right;
-    margin-left: 380px;
+    margin-left: 370px;
 }
 
 .Icons {
     display: flex;
     margin-top: 5px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .Caption{
-    padding: 5px;
-    margin-left: 5px;
+    margin-left: 15px;
+    padding-bottom: 5px;
 }
 
 .Likes{
-    margin-left: 5px;
+    margin-left: 15px;
 }
